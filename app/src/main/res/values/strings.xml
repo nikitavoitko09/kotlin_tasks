@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My_Application2</string>
+    <string name="name">Name</string>
+    <string name="second_name">Second name</string>
+    <string name="logourl">LogoURL</string>
+    <string name="logo">TODO</string>
+    <string name="logo2">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="expend_the_information_volume">expend the information volume</string>
+    <string name="nikita">Nikita</string>
+    <string name="nikita2">Nikita</string>
+    <string name="todo2">TODO</string>
+    <string name="home_page">home page</string>
+    <string name="todo3">TODO</string>
+    <string name="nikita6">Nikita</string>
+    <string name="logoN">LOGO</string>
+    <string name="closck">Closck</string>
+</resources>
